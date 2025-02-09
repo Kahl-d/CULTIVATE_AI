@@ -5,6 +5,10 @@
 ## 📌 Overview  
 CULTIVATE is an AI-driven research initiative that applies **Large Language Models (LLMs)** for **Cultural Capital Theme (CCT) identification** in educational narratives. Using **transformer-based models, fine-tuning techniques, and retrieval-augmented methods**, the project enhances the understanding of how **cultural assets impact STEM retention**.  
 
+<img width="954" alt="Screenshot 2025-02-06 at 3 00 30 PM" src="https://github.com/user-attachments/assets/ad7138a6-2193-4274-9be7-3e3936d8882d" />
+
+
+
 We explore multiple **BERT-based architectures, hyperparameter tuning strategies, domain adaptation techniques, and embedding visualizations** to optimize model performance in classifying **Cultural Capital Themes (CCTs)** from student essays and reflective journaling.  
 
 ---
@@ -69,10 +73,11 @@ RAG helped **bridge LLM reasoning with real-world cultural knowledge**, improvin
 ### **6️⃣ Knowledge Graphs for CCT Relationships**
 To model relationships between **Cultural Capital Themes**, we:  
 ✅ Constructed **Knowledge Graphs** of **CCT interdependencies**.  
-✅ Used **Graph Attention Networks (GATs)** to refine embeddings.  
+✅ Used **Prompt Engineering and DOMAIN ADAPTATION** to refine embeddings.  
 ✅ Linked **student narratives to cultural capital concepts** through entity recognition.
 
 This approach allowed **better structural representation** of **how different cultural strengths impact STEM persistence**.
+<img width="1171" alt="Screenshot 2025-02-06 at 3 38 42 PM" src="https://github.com/user-attachments/assets/ec5bcfc4-3d1e-47f9-8c2d-51e20df130d9" />
 
 ---
 
@@ -81,6 +86,7 @@ We applied **t-SNE & PCA** on learned **CCT embeddings** to:
 - **Cluster student narratives** based on CCT affinity.  
 - **Visualize high-dimensional text representations** to identify **overlapping vs. distinct themes**.  
 - Understand how **semantic distances** between CCT categories evolved **before and after fine-tuning**.  
+<img width="450" alt="Picture12" src="https://github.com/user-attachments/assets/5fd4c038-928d-4090-b073-de8edc1e959e" />
 
 ---
 
